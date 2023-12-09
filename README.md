@@ -19,15 +19,15 @@ cd is-477-fall2023-final-project
 2. Set Up the Environment
 Create and activate a virtual environment, and install the required dependencies:
 
-# Create a virtual environment (Windows)
+### Create a virtual environment (Windows)
 python -m venv .venv
 .venv\Scripts\activate
 
-# Create a virtual environment (macOS/Linux)
+### Create a virtual environment (macOS/Linux)
 python3 -m venv .venv
 source .venv/bin/activate
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
 3. Download and Prepare the Data
