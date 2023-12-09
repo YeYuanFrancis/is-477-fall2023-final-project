@@ -1,4 +1,7 @@
 # is-477-fall2023-final-project
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10313584.svg)](https://doi.org/10.5281/zenodo.10313584) 
+
 ## Overview
 In this project, part of the IS-477 course, I delve into the intricacies of the renowned wine dataset from the UCI Machine Learning Repository. My aim is to apply a suite of data management techniques and analytical methods learned throughout the course, encompassing data acquisition, profiling, analysis, and visualization.
 
