@@ -1,0 +1,9 @@
+requests
+ydata-profiling
+snakemake
+pandas
+numpy
+matplotlib
+os
+zipfile
+seaborn

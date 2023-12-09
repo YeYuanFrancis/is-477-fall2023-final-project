@@ -1,0 +1,22 @@
+{
+    "title": "IS-477-FALL2023-FINAL-PROJECT",
+    "description": "IS 477 FINAL PROJECT",
+    "creators": [
+        {
+        "name": "Yuan, Ye",
+        "orcid": "0009-0009-5377-840X"
+        }
+    ],
+    "related_identifiers": [
+        {
+        "scheme": "doi",
+        "identifier": "https://doi.org/10.0000/00000",
+        "relation": "cites"
+        }
+    ],
+    "access_right": "open",
+    "upload_type": "software",
+    "license": "MIT"
+}
+
+    
